@@ -8,7 +8,7 @@ def display_banner():
   ┌───────────────────────────────────────────────────────┐
   │          Network Intrusion Prevention System          │
   ├───────────────────────────────────────────────────────┤
-  │   Developed by  :  Krishnamoorthi P L                 │
+  │   Developed by  :  Gouthaman G                        │
   │   Purpose       :  Detects and mitigates network      │
   │                    intrusions in real-time.           │
   │                                                       │
